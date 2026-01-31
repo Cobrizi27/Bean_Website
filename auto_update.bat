@@ -2,7 +2,7 @@
 :: --- CONFIGURATION ---
 SET "WEB_DIR=C:\Users\Public\Bean_Website"
 :: Ensure this matches your specific AppData path
-SET "SOURCE_DIR=C:\Users\E7240\AppData\Roaming\MetaQuotes\Terminal\Common\Files"
+SET "SOURCE_DIR=C:\Users\user\AppData\Roaming\MetaQuotes\Terminal\Common\Files"
 
 echo ---------------------------------------------------
 echo HOURLY GITHUB SYNC INITIALIZED
